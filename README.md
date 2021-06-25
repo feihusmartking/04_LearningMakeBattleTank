@@ -2,3 +2,4 @@
 An open-world head-to-head tank fight with simple AI,terrian, and advanced contral system in Unreal 4.
 ## Lecture List
 *LMBT Intro, NOtes & Assets
+* LMBT02 Setting Up a GitHub "Repo"
